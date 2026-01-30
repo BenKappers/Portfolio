@@ -13,7 +13,7 @@ Fully custom motion-controlled RC car. The controller uses an MPU6050 IMU to ste
 ---
 
 ### 1. Mechanical
-Created a full CAD design of the car assembly. STEP file of the full assembly is available [Here](CAD/RCCarAssembly.STEP).
+Created a full CAD design of the car assembly. STEP file of the full assembly is available [here](CAD/RCCarAssembly.STEP).
 <img src="CAD/Images/FullAssembly.png" alt="FullAssembly" width="500">
 
 Designed and 3D printed mounts for the battery, driver motor, and ESP32, as well as the steering mechanism linkages and the chassis
