@@ -45,9 +45,13 @@ High Level Circuit Diagram for the car and controller:
 
 ### 3. Software
 Car and remote programmed on ESP32 microcontrollers.
+
 Motion-based steering and throttle using Inertial Measurement Unit sensor. 
+
 Communication between car and remote handled via ESP-NOW.
+
 PWM control for motor speed and direction
+
 Code folder contains source files for car and remote, with instructions for uploading and running
 
 ---
