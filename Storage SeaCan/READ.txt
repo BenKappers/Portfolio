@@ -1,1 +1,1 @@
-Part and Assembly files, as well as a pdf of the drawing package for the Storage Seacan Project
+Drawing package created for tendering purposes. All CAD modeling, assembling, and drawing was performed in SolidWorks.
