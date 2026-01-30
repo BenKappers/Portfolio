@@ -1,4 +1,4 @@
-# RC Car Project
+# Remote Controlled Car Project
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
 </table>
 
 
-This project documents the design, CAD modeling, and construction of a custom RC car, including drivetrain, steering, and electronics. The goal was to create a robust, lightweight, and functional RC car while demonstrating design skills, assembly planning, and mechanical/electrical integration.
+Fully custom remote controlled car. Specced and sourced all componenets, ensuring mechanical and electrical compatibaility. Designed car assembly and modeled all components. 3D printed chassis, steering mechanism, and component mounts. Assembled the car and safely integrated the electronics. Programmed car and remote control with ESP-NOW communication and IMU-based motion control. 
 
 ---
 
