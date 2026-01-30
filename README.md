@@ -1,6 +1,7 @@
 # Welcome to My Portfolio
 
-The centerpiece of this portfolio is a fully custom **motion-controlled RC car**, designed, 3D printed, assembled, and programmed from the ground up. See full mechanical, electrical, and software integration, including motion-based steering, ESP-NOW communication, and PWM motor control.
+This portfolio highlights a motion-controlled RC car project that I designed and built from scratch. The project combines mechanical design, embedded electronics, and firmware development.  
+
 
 ## Featured Project
 
