@@ -8,7 +8,7 @@
 </table>
 
 
-Fully custom remote controlled car. Specced and sourced all componenets, ensuring mechanical and electrical compatibaility. Designed car assembly and modeled all components. 3D printed chassis, steering mechanism, and component mounts. Assembled the car and safely integrated the electronics. Programmed car and remote control with ESP-NOW communication and IMU-based motion control. 
+Fully custom motion controlled RC car. Utilizing an IMU in the controller, the user controls the car by tilting the controller left/right to change the steering angle, and forward/back to change the throttle. Both the controller and the car are controlled by ESP-32's and communicate via ESP-NOW.
 
 ---
 
