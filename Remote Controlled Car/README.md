@@ -56,5 +56,11 @@ Car and remote programmed on ESP32 microcontrollers using Arduino IDE.
 - Code folder contains source files for car and remote
 ---
 
+### 4. Continuing Work
+- Design and 3D print a sleek and ergonmic controller that neatly holds all components
+- Utilize the encoder on the motor to implement a PID feedback control algorithm for smoother speed control
+- Create a body shell to enhance the car's appearance and protect electronics
+
+
 
 
