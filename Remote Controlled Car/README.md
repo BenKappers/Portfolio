@@ -16,15 +16,19 @@ Fully custom remote controlled car. Specced and sourced all componenets, ensurin
 Created a full CAD design of the car assembly. STEP file of the full assembly is available [HERE](CAD/RCCarAssembly.STEP).
 <img src="CAD/Images/FullAssembly.png" alt="FullAssembly" width="500">
 
-Designed and 3D printed mounts for the battery, driver motor, and ESP32.
+Designed and 3D printed mounts for the battery, driver motor, and ESP32, as well as the steering mechanism linkages and the chassis
 <table>
   <tr>
     <td><img src="CAD/Images/BatteryMount.png" alt="BatteryMount" width="500"></td>
     <td><img src="CAD/Images/MotorMount.png" alt="MotorMount" width="500"></td>
   </tr>
 </table>
-Designed and 3D printed the chassis with mounting locations for all components.
-<img src="CAD/Images/Chassis.png" alt="Chassis" width="500">
+<table>
+  <tr>
+    <td><img src="CAD/Images/SteeringMechanism.png" alt=SteeringMechanism" width="500"></td>
+    <td><img src="CAD/Images/Chassis.png" alt="Chassis" width="500"></td>
+  </tr>
+</table>
 
 
 ---
