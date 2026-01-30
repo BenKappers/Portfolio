@@ -5,7 +5,7 @@ The centerpiece of this portfolio is a fully custom **motion-controlled RC car**
 ## Featured Project
 
 ### RC Car
-[Folder: RC Car Project](RC_Car/)
+[Folder: RC Car Project](Remote%20Controlled%20Car/)
 - Fully custom remote-controlled car  
 - 3D printed chassis, mounts, and steering mechanism 
 - Motion-based steering and throttle using IMU  
