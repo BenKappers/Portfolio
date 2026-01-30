@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="PhotosAndVideos/TopView.jpeg" alt="RC Car Top View" width="300"></td>
-    <td><img src="PhotosAndVideos/FrontView.jpeg" alt="RC Car Full View" width="300"></td>
+    <td><img src="PhotosAndVideos/TopView.jpeg" alt="RC Car Top View" width="500"></td>
+    <td><img src="PhotosAndVideos/FrontView.jpeg" alt="RC Car Full View" width="500"></td>
   </tr>
 </table>
 
