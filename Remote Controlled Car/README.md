@@ -19,8 +19,6 @@ https://github.com/user-attachments/assets/23d368e9-39be-4853-acd3-2f31fa13d47e
 
 
 
-
-
 ---
 
 ### 1. Mechanical
@@ -52,6 +50,7 @@ High Level Circuit Diagram for the car and controller:
 <img src="CircuitDiagrams.jpg" alt="Circuit Diagrams" width="850">
 
 
+
 ---
 
 ### 3. Software
@@ -67,7 +66,18 @@ Car and remote programmed on ESP32 microcontrollers using Arduino IDE.
 - Code folder contains source files for car and remote
 ---
 
-### 4. Continuing Work
+
+
+### 4. Additional Demo Videos
+<table>
+  <tr>
+    <td>https://github.com/user-attachments/assets/4341a806-1e97-4a92-aeb4-4ccf34edb2f3</td>
+    <td>https://github.com/user-attachments/assets/0445b38f-0755-4eff-bfa7-50dd3ae363f4</td>
+  </tr>
+</table>
+
+---
+### 5. Continuing Work
 - Design and 3D print a sleek and ergonmic controller that neatly holds all components
 - Utilize the encoder on the motor to implement a PID feedback control algorithm for smoother speed control
 - Create a body shell to enhance the car's appearance and protect electronics
