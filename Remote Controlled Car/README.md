@@ -1,4 +1,4 @@
-# Remote Controlled Car Project
+# Motion Controlled RC Car Project
 
 <table>
   <tr>
