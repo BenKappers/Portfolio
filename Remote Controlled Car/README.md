@@ -1,6 +1,6 @@
 # RC Car Project
 
-![RC Car Full View](Photos_and_Videos/Front_View.jpeg)
+![RC Car Full View](PhotosandVideos/FrontView.jpeg)
 
 This project documents the design, CAD modeling, and construction of a custom RC car, including drivetrain, steering, and electronics. The goal was to create a robust, lightweight, and functional RC car while demonstrating design skills, assembly planning, and mechanical/electrical integration.
 
