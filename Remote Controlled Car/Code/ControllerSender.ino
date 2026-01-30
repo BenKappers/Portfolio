@@ -75,7 +75,7 @@ void setup() {
 
   digitalWrite(2, HIGH); // turn on the LED while calibrating
   calibrateSensor();
-  digitalWrite(2, LOW); // turn of LED when done
+  digitalWrite(2, LOW); // turn off LED when done
 
   pinMode(buttonPin, INPUT_PULLUP); // initialize button pin
 
