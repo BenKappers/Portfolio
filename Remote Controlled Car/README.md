@@ -34,7 +34,7 @@ Designed and 3D printed mounts for the battery, driver motor, and ESP32, as well
 </table>
 <table>
   <tr>
-    <td><img src="CAD/Images/SteeringAssembly.png" alt=SteeringMechanism" width="500"></td>
+    <td><img src="CAD/Images/SteeringAssembly.png" alt="SteeringMechanism" width="500"></td>
     <td><img src="CAD/Images/Chassis.png" alt="Chassis" width="500"></td>
   </tr>
 </table>
