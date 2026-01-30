@@ -23,16 +23,19 @@ This folder contains the CAD files for the RC car project.
 - **Chassis**
   
   ![Chassis](Images/Chassis.png)
+
   Primary load-bearing structure, designed for rigidity while minimizing mass. Supports all subsystems and mounting points. 3D printed in PLA.
   
 - **Motor mount**
   
   ![Motor Mount](Images/MotorMount.png)
+
   Fixes the motor to the chassis of the car. Resists reaction torque from the motor. 3D printed in PLA.
   
 - **Battery mount**
   
   ![Battery Mount](Images/BatteryMount.png)
+
   Fixes the battery to the chassis of the car. 3D printed in PLA.
 
 ## Notes
