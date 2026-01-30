@@ -66,7 +66,8 @@ Car and remote programmed on ESP32 microcontrollers using Arduino IDE.
 - Code folder contains source files for car and remote
 ---
 
-
+<td>https://github.com/user-attachments/assets/4341a806-1e97-4a92-aeb4-4ccf34edb2f3</td>
+<td>https://github.com/user-attachments/assets/0445b38f-0755-4eff-bfa7-50dd3ae363f4</td>
 
 ### 4. Additional Demo Videos
 <table>
