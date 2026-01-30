@@ -31,6 +31,7 @@ Designed and 3D printed the chassis with mounting locations for all components.
 
 ### 2. Electrical
 Specced and sourced all componenets, ensuring mechanical and electrical compatibaility.
+Electronics were integrated with secure connections using a combination of screw terminals, soldered joints, and JST connectors.
 
 High Level Circuit Diagram for the car and controller:
 <img src="CircuitDiagrams.jpg" alt="Circuit Diagrams" width="850">
@@ -38,7 +39,7 @@ High Level Circuit Diagram for the car and controller:
 
 ---
 
-### 4. Code
+### 3. Software
 Firmware for motor control, sensors, and any automation.
 
 [Folder: code](code/)
