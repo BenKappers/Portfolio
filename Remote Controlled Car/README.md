@@ -19,7 +19,7 @@ Created a full CAD design of the car assembly. STEP file of the full assembly is
 Designed and 3D printed mounts for the battery, driver motor, and ESP32.
 <table>
   <tr>
-    <td><img src="CAD/Images/BatteryMount.png" alt="BatteryMount" width="750"></td>
+    <td><img src="CAD/Images/BatteryMount.png" alt="BatteryMount" width="500"></td>
     <td><img src="CAD/Images/MotorMount.png" alt="MotorMount" width="500"></td>
   </tr>
 </table>
@@ -32,10 +32,8 @@ Designed and 3D printed the chassis with mounting locations for all components.
 ### 2. Electrical
 Specced and sourced all componenets, ensuring mechanical and electrical compatibaility.
 High Level Circuit Diagram for the car and controller
-<img src="CircuitDiagrams.jpg" alt="Circuit Diagrams" width="500">
+<img src="CircuitDiagrams.jpg" alt="Circuit Diagrams" width="750">
 
-
-![Circuit Diagram](circuit_diagram.png)
 
 ---
 
