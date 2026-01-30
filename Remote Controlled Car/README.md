@@ -14,9 +14,10 @@ Fully custom motion-controlled RC car. The controller uses an MPU6050 IMU to ste
 
 **Motion-Control Demo (IMU-based steering & throttle)**
 
-<video width="500" autoplay loop muted playsinline>
-  <source src="https://raw.githubusercontent.com/BenKappers/Portfolio/main/Remote%20Controlled%20Car/PhotosAndVideos/MotionControlDemo.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/23d368e9-39be-4853-acd3-2f31fa13d47e
+
+
 
 
 
