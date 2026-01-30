@@ -44,28 +44,13 @@ High Level Circuit Diagram for the car and controller:
 ---
 
 ### 3. Software
-Firmware for motor control, sensors, and any automation.
-
-[Folder: code](code/)
-
-Includes:
-- RC motor control scripts
-- Sensor integration (if applicable)
-- Instructions for uploading/running code
+Car and remote programmed on ESP32 microcontrollers.
+Motion-based steering and throttle using Inertial Measurement Unit sensor. 
+Communication between car and remote handled via ESP-NOW.
+PWM control for motor speed and direction
+Code folder contains source files for car and remote, with instructions for uploading and running
 
 ---
 
-### Notes
-- CAD models created in SolidWorks; STEP file included for universal viewing.  
-- Real-life photos and videos demonstrate assembly and functionality.  
-- Images and diagrams highlight design decisions and subsystem integration.  
-- All files organized for clarity and easy navigation.
 
----
-
-### Optional: Features / Highlights (if you want)
-- Lightweight chassis optimized for balance and rigidity  
-- Servo-driven steering with minimal bump steer  
-- Modular motor and battery mounts for easy maintenance  
-- Demonstrates full mechanical and electrical integration in a student project
 
