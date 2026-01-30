@@ -1,16 +1,25 @@
-## Welcome to my Portfolio!
+# Welcome to My Portfolio
 
-<!--
-**BenKappers/BenKappers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The centerpiece of this portfolio is a fully custom **motion-controlled RC car**, designed, 3D printed, assembled, and programmed from the ground up. See full mechanical, electrical, and software integration, including motion-based steering, ESP-NOW communication, and PWM motor control.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### RC Car
+[Folder: RC Car Project](RC_Car/)
+- Fully custom remote-controlled car  
+- 3D printed chassis, mounts, and steering mechanism 
+- Motion-based steering and throttle using IMU  
+- ESP32 firmware for car and remote with ESP-NOW communication  
+- Mechanical, electrical, and software integration  
+
+## Other Work
+
+### Manufacturing Drawings
+[Folder: Manufacturing Drawings](Manufacturing_Drawings/)
+- Professional manufacturing drawings completed during a previous co-op  
+- Showcases experience with technical drawing and documentation  
+
+### Storage Seacan Project
+[Folder: Storage Seacan](Storage_Seacan/)
+- Complete drawing package for a storage container used for tendering  
+- Demonstrates CAD modeling and project documentation skills
