@@ -23,63 +23,17 @@ Designed and 3D printed mounts for the battery, driver motor, and ESP32.
     <td><img src="CAD/Images/MotorMount.png" alt="MotorMount" width="500"></td>
   </tr>
 </table>
-Designed and 3D printed the chassis with accurate mounting locations.
+Designed and 3D printed the chassis with mounting locations for all components.
+<img src="CAD/Images/Chassis.png" alt="Chassis" width="500">
 
-[Folder: Photos_and_Videos](Photos_and_Videos/)
-
-Embedded examples:
-
-- **Front View**
-  
-  ![Front View](Photos_and_Videos/Front_View.jpeg)
-
-- **Side View**
-  
-  ![Side View](Photos_and_Videos/Side_View.jpeg)
-
-- **Action Video**
-  
-  ![Action Video](Photos_and_Videos/Action.gif) <!-- or thumbnail image linking to video -->
 
 ---
 
-### 2. CAD Models
-Mechanical design files, including screenshots of assemblies and a STEP file for universal viewing.
+### 2. Electrical
+Specced and sourced all componenets, ensuring mechanical and electrical compatibaility.
+High Level Circuit Diagram for the car and controller
+<img src="CircuitDiagrams.jpeg" alt="Circuit Diagrams" width="500">
 
-[Folder: CAD](CAD/)
-
-Embedded screenshots:
-
-- **Full assembly**
-  
-  ![Full Assembly](CAD/images/FullAssembly.png)
-
-- **Drivetrain assembly**
-  
-  ![Drivetrain Assembly](CAD/images/DrivingAssembly.png)
-
-- **Steering assembly**
-  
-  ![Steering Assembly](CAD/images/SteeringAssembly.png)
-
-- **Chassis**
-  
-  ![Chassis](CAD/images/Chassis.png)
-
-- **Motor mount**
-  
-  ![Motor Mount](CAD/images/MotorMount.png)
-
-- **Battery mount**
-  
-  ![Battery Mount](CAD/images/BatteryMount.png)
-
-**STEP file:** `CAD/final_assembly.step` – can be opened in any CAD software that supports STEP.
-
----
-
-### 3. Circuit Diagram
-Electrical design showing motor connections, PWM control, and battery layout.
 
 ![Circuit Diagram](circuit_diagram.png)
 
