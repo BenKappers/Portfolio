@@ -23,6 +23,7 @@ This folder contains the CAD files for the RC car project.
 
     
   - Motor mount
+  - 
     ![Motor Mount](Images/MotorMount.png)
 
     
