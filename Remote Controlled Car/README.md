@@ -53,7 +53,7 @@ Car and remote programmed on ESP32 microcontrollers using Arduino IDE.
 - Communication between car and remote handled via ESP-NOW at a 10 Hz update rate
 - PWM control for motor speed and direction
 
-Code folder contains source files for car and remote
+  Code folder contains source files for car and remote
 ---
 
 
