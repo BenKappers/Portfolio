@@ -12,10 +12,11 @@ Fully custom remote controlled car. Specced and sourced all componenets, ensurin
 
 ---
 
-## Contents
+### 1. Mechanical
+Created a full CAD design of the car assembly. STEP file of the full assembly is available at [Folder: CAD](CAD/RCCarAssembly.STEP)
 
-### 1. Real-Life Photos & Videos
-Showcases the completed RC car in action and highlights key design features.
+Designed and 3D printed mounts for the battery, driver motor, and ESP32.
+Designed and 3D printed the chassis with accurate mounting locations.
 
 [Folder: Photos_and_Videos](Photos_and_Videos/)
 
