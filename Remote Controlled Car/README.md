@@ -8,7 +8,7 @@
 </table>
 
 
-Fully custom motion controlled RC car. Utilizing an IMU in the controller, the user controls the car by tilting the controller left/right to change the steering angle, and forward/back to change the throttle. Both the controller and the car are controlled by ESP-32's and communicate via ESP-NOW.
+Fully custom motion-controlled RC car. The controller uses an MPU6050 IMU to steer the car by tilting left/right, and control the throttle by tilting forward/back. Car and controller run on ESP32 microcontrollers and communicate wirelessly via ESP-NOW.
 
 ---
 
