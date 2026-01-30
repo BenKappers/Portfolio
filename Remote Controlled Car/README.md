@@ -12,6 +12,12 @@ Fully custom motion-controlled RC car. The controller uses an MPU6050 IMU to ste
 
 ---
 
+**Motion-Control Demo (IMU-based steering & throttle)**
+
+<img src="PhotosAndVideos/MotionControlDemo.gif" width="500">
+
+---
+
 ### 1. Mechanical
 Created a full CAD design of the car assembly. STEP file of the full assembly is available [here](CAD/RCCarAssembly.STEP).
 <img src="CAD/Images/FullAssembly.png" alt="FullAssembly" width="500">
