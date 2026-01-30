@@ -44,16 +44,16 @@ High Level Circuit Diagram for the car and controller:
 ---
 
 ### 3. Software
-Car and remote programmed on ESP32 microcontrollers.
+Car and remote programmed on ESP32 microcontrollers using Arduino IDE.
 
-Motion-based steering and throttle using Inertial Measurement Unit sensor. 
+- Motion-based steering and throttle using an MPU6050 Inertial Measurement Unit  
+- Angle calculated using a **complementary filter** combining accelerometer and gyroscope data  
+- Steering limited to ±60° for safety, with a dead zone to prevent accidental movement  
+- Motion-enabled driving only engages when a dedicated controller button is pressed  
+- Communication between car and remote handled via ESP-NOW at a 10 Hz update rate
+- PWM control for motor speed and direction
 
-Communication between car and remote handled via ESP-NOW.
-
-PWM control for motor speed and direction
-
-Code folder contains source files for car and remote, with instructions for uploading and running
-
+Code folder contains source files for car and remote
 ---
 
 
