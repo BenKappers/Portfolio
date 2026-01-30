@@ -7,17 +7,17 @@ This folder contains the CAD files for the RC car project.
 - `final_assembly.step` – STEP file of the full assembly for universal viewing.
 - `images/` – Screenshots of key CAD models:
   - Full assembly
-  - ![Full Assembly](Images/FullAssembly.png)
+    ![Full Assembly](Images/FullAssembly.png)
   - Drivetrain assembly
-  - ![Drivetrain Assembly](Images/DrivingAssembly.png)
+    ![Drivetrain Assembly](Images/DrivingAssembly.png)
   - Steering assembly
-  - ![Steering Assembly](Images/SteeringAssembly.png)
+    ![Steering Assembly](Images/SteeringAssembly.png)
   - Chassis
-  - ![Chassis](Images/Chassis.png)
+    ![Chassis](Images/Chassis.png)
   - Motor mount
-  - ![Motor Mount](Images/MotorMount.png)
+    ![Motor Mount](Images/MotorMount.png)
   - Battery mount
-  - ![Battery Mount](Images/BatteryMount.png)
+    ![Battery Mount](Images/BatteryMount.png)
 
 ## Notes
 
