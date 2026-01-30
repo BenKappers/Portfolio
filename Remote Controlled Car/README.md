@@ -31,7 +31,8 @@ Designed and 3D printed the chassis with mounting locations for all components.
 
 ### 2. Electrical
 Specced and sourced all componenets, ensuring mechanical and electrical compatibaility.
-High Level Circuit Diagram for the car and controller
+
+High Level Circuit Diagram for the car and controller:
 <img src="CircuitDiagrams.jpg" alt="Circuit Diagrams" width="850">
 
 
