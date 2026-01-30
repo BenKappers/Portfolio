@@ -1,4 +1,5 @@
 # RC Car Project
+<img src="PhotosAndVideos/FrontView.jpeg" alt="RC Car Full View" width="500">
 
 ![RC Car Full View](PhotosAndVideos/FrontView.jpeg)
 
