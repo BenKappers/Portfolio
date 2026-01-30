@@ -1,7 +1,8 @@
 # RC Car Project
 
-<img src="PhotosAndVideos/TopView.jpeg" alt="RC Car top View" width="300">
-<img src="PhotosAndVideos/FrontView.jpeg" alt="RC Car Full View" width="300">
+<img src="PhotosAndVideos/TopView.jpeg" alt="RC Car Top View" width="300" style="display:inline-block; margin-right:10px;">
+<img src="PhotosAndVideos/FrontView.jpeg" alt="RC Car Full View" width="300" style="display:inline-block;">
+
 
 This project documents the design, CAD modeling, and construction of a custom RC car, including drivetrain, steering, and electronics. The goal was to create a robust, lightweight, and functional RC car while demonstrating design skills, assembly planning, and mechanical/electrical integration.
 
