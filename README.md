@@ -16,16 +16,16 @@ This portfolio highlights a motion-controlled RC car project that I designed and
 ## Other Work
 
 ### Manufacturing Drawings
-[Folder: Manufacturing Drawings](Manufacturing_Drawings/)
+[Folder: Manufacturing Drawings](Manufacturing%20Drawings/)
 - Professional manufacturing drawings completed during a previous co-op  
 - Showcases experience with technical drawing and documentation  
 
 ### Storage Seacan Project
-[Folder: Storage Seacan](Storage_Seacan/)
+[Folder: Storage Seacan](Storage%20Seacan/)
 - Complete drawing package for a storage container used for tendering  
 - Demonstrates CAD modeling and project documentation skills
 
 ### Centrifugal Pump
-[Folder: Centrifugal Pump](Centrifugal_Pump/)
+[Folder: Centrifugal Pump](Centrifugal%20Pump/)
 - CAD models and assembly created of a centrifugal pump  
 - Demonstrates CAD modeling and assembly skills
