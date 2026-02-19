@@ -1,9 +1,8 @@
 # Centrifugal Pump CAD Project
 
 ## Overview
-This project involved designing and modeling a fully assembled centrifugal pump in CAD.  
+This project involved designing and modeling a fully assembled centrifugal pump in Siemens NX.  
 The model includes all major components such as the casing, impeller, shaft, bearing housing, and sealing features.  
-The goal was to accurately represent mechanical fit, assembly relationships, and internal flow geometry typical of an end-suction centrifugal pump.
 
 ---
 
@@ -42,14 +41,3 @@ The goal was to accurately represent mechanical fit, assembly relationships, and
 
 ---
 
-## Skills Demonstrated
-- Parametric part modeling
-- Assembly constraints and fits
-- Section views and exploded configurations
-- Mechanical design for rotating equipment
-- Understanding of centrifugal pump architecture
-
----
-
-## Software Used
-*(Add your CAD software here — e.g., SolidWorks, Fusion 360, Inventor, etc.)*
