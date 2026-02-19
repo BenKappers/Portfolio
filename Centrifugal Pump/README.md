@@ -3,6 +3,7 @@
 ## Overview
 This project involved designing and modeling a fully assembled centrifugal pump in Siemens NX.  
 The model includes all major components such as the casing, impeller, shaft, bearing housing, and sealing features.  
+NX CAD files can be found in the CAD folder.
 
 ---
 
