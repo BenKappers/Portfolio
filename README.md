@@ -24,3 +24,8 @@ This portfolio highlights a motion-controlled RC car project that I designed and
 [Folder: Storage Seacan](Storage_Seacan/)
 - Complete drawing package for a storage container used for tendering  
 - Demonstrates CAD modeling and project documentation skills
+
+### Centrifugal Pump
+[Folder: Centrifugal Pump](Centrifugal_Pump/)
+- CAD models and assembly created of a centrifugal pump  
+- Demonstrates CAD modeling and assembly skills
